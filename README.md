@@ -66,5 +66,5 @@ virtual_ipaddress {
 ![](img/5.png)
 ![](img/6.png)
 ![](img/7.png)
-![](img/7.png)
+![](img/8.png)
 
